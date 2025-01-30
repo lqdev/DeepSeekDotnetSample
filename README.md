@@ -4,6 +4,8 @@ Sample application that uses [DeepSeek R1 AI model](https://github.com/marketpla
 
 ## Quickstart
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lqdev/DeepSeekDotnetSample)
+
 When the Codespace starts:
 
 1. Open the *.devcontainer.json* file.
